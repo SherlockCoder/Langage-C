@@ -4,7 +4,7 @@
 - [FormationVidéo](https://www.youtube.com/@formation-video) - FR
 - [Dominique Liard](https://www.youtube.com/@DominiqueLiard06) - FR
 ## Sites Web
-- [Koor.fr](https://koor.fr/)) - FR
+- [Koor.fr](https://koor.fr/) - FR
 - [OpenClassrooms](https://openclassrooms.com/fr/) - FR
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) - ENG
 ## IDE pour Programmer en C
