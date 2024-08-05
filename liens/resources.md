@@ -24,3 +24,4 @@
 - [Google Drive](https://drive.google.com/file/d/1vMGkHwZ1yW6oraN_XWdXzwspV_ojgbf6/view?usp=sharing) - Plusieurs langages de programmation, y compris le C - ENG
 ## Github
 - [Free Ebook Foundation](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) - Plusieurs langages de programmation, y compris le C - ENG
+- [ItIsMeCall911](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Plusieurs sites de formations gratuites.
